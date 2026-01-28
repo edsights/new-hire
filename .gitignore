@@ -6,7 +6,6 @@ answer.*
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
 env/
 venv/
@@ -25,7 +24,6 @@ build/
 *.class
 *.jar
 *.war
-target/
 
 # IDE files
 .vscode/
@@ -35,13 +33,11 @@ target/
 *~
 .DS_Store
 
-# Go
+# Go/Rust/C
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
-
-# Rust
 target/
 Cargo.lock

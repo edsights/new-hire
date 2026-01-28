@@ -20,7 +20,7 @@ Write a program in your preferred programming language (Python, JavaScript, Java
 - Handle the file reading appropriately
 - If multiple words have the same length (e.g., multiple shortest or longest words), you can return any one of them
 - Your solution should be clean and readable
-- Consider edge cases (empty lines, etc.)
+- Consider edge cases (empty lines, duplicate words, etc.)
 
 ### Example Output
 
