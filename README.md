@@ -1,6 +1,6 @@
 # New Hire Coding Challenge
 
-Welcome to the Edsights new hire coding challenge!
+Welcome to the EdSights new hire coding challenge!
 
 ## Challenge: Find the Longest and Shortest Words
 
