@@ -8,7 +8,7 @@ In this repository, you'll find a file called `words.txt` that contains multiple
 
 ### Your Task
 
-Write a program in your preferred programming language (Python, JavaScript, Java, Go, etc.) that:
+We primarily use JavaScript, Go, and Python. Write a program in your preferred language that:
 
 1. Reads the `words.txt` file
 2. Finds the **shortest word** in the file
