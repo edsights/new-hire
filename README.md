@@ -2,7 +2,10 @@
 
 Welcome to the EdSights new hire coding challenge!
 
-We are mainly interested in learning how you approach a coding problem. To help us, please narrate your thoughts as much as possible throughout the challenge, and feel free to ask questions.
+* We are mainly interested in learning how you approach a coding problem.
+* To help us, please narrate your thoughts as much as possible throughout the challenge, and feel free to ask questions.
+* You can use any resources you want to complete the task. This is not a test of syntax memorization.
+* You are encouraged to show us your typical AI workflow for a coding task. 
 
 ## Challenge: Find the Longest and Shortest Words
 
